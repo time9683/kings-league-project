@@ -350,12 +350,38 @@
       {
         "teams": [
           {
+            "id": "saiyans-fc",
+            "name": "Saiyans FC"
+          },
+          {
+            "id": "el-barrio",
+            "name": "El Barrio"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "teams": [
+          {
             "id": "kunisports",
             "name": "Kunisports"
           },
           {
             "id": "ultimate-mostoles",
             "name": "Ultimate Móstoles"
+          }
+        ],
+        "score": "0 – 0"
+      },
+      {
+        "teams": [
+          {
+            "id": "jijantes",
+            "name": "Jijantes FC"
+          },
+          {
+            "id": "porcinos-fc",
+            "name": "Porcinos FC"
           }
         ],
         "score": "0 – 0"
@@ -376,38 +402,12 @@
       {
         "teams": [
           {
-            "id": "saiyans-fc",
-            "name": "Saiyans FC"
-          },
-          {
-            "id": "el-barrio",
-            "name": "El Barrio"
-          }
-        ],
-        "score": "0 – 0"
-      },
-      {
-        "teams": [
-          {
             "id": "los-troncos",
             "name": "Los Troncos FC"
           },
           {
             "id": "aniquiladores",
             "name": "Aniquiladores FC"
-          }
-        ],
-        "score": "0 – 0"
-      },
-      {
-        "teams": [
-          {
-            "id": "jijantes",
-            "name": "Jijantes FC"
-          },
-          {
-            "id": "porcinos-fc",
-            "name": "Porcinos FC"
           }
         ],
         "score": "0 – 0"
